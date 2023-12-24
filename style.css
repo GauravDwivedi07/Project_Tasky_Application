@@ -1,0 +1,12 @@
+.btn-primary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.flex-nowrap {
+  width: 38%;
+  margin: auto;
+  margin-top: 30px;
+}
